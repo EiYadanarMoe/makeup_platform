@@ -1,0 +1,24 @@
+package com.hostmdy.style.model;
+
+public enum Mode {
+	LIST,
+	CREATE,
+	UPDATE,
+	SINGLE,
+	LOAD,
+	DELETE,
+	LOGIN,
+	LOGIN_FORM,
+	SIGNUP,
+	SIGNUP_FORM,
+	LOGOUT,
+	DISABLE,
+	ENABLE,
+	STYLE_FORM,
+	INDEX,
+	ALL_STYLES,
+	SEARCH,
+	FILTER,
+	LIKE
+
+}
